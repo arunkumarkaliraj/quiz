@@ -1,93 +1,93 @@
 {
     "questions": [{
-            "questionText": "1. Which of the following does TypeScript use to specify types?",
+            "questionText": "1. Which of the following is a free FrontEnd Development Platform?",
             "options": [{
-                    "text": "a)      :",
+                    "text": "a)      Angular",
                     "correct": true
                 },
                 {
-                    "text": "b)      ;"
+                    "text": "b)      React Js"
                 },
                 {
-                    "text": "c)      !"
+                    "text": "c)      MongoDB"
                 },
                 {
-                    "text": "d)      &"
+                    "text": "d)      MYSQL"
                 }
             ],
-            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+            "explanation": "Angular is a free frontend development platform for building SPA for mobiles and desktops"
         },
         {
-            "questionText": "2. Which of the following is NOT a type used in TypeScript?",
+            "questionText": "2. Which of the following is a feauture of Angular?",
             "options": [{
-                    "text": "a) number"
+                    "text": "a) Concardination"
                 },
                 {
-                    "text": "b) string"
+                    "text": "b) Bug Fixing"
                 },
                 {
-                    "text": "c) boolean"
+                    "text": "c) Query Writing"
                 },
                 {
-                    "text": "d) enum",
+                    "text": "d) HTTPClient",
                     "correct": true
                 }
             ],
-            "explanation": "enum is not used as a type in TypeScript"
+            "explanation": "HTTPClient is a feauture of Angular"
         },
         {
-            "questionText": "3. How can we specify properties and methods for an object in TypeScript?",
+            "questionText": "3. Which of the following is a structural directive?",
             "options": [{
-                    "text": "a) Use classes."
+                    "text": "a) ngIf."
                 },
                 {
-                    "text": "b) Use interfaces.",
+                    "text": "b) *ngFor.",
                     "correct": true
                 },
                 {
-                    "text": "c) Use enums."
+                    "text": "c) ngStyle."
                 },
                 {
-                    "text": "d) Use async/await."
+                    "text": "d) Selector."
                 }
             ],
-            "explanation": "interfaces are typically used to list the properties and methods for an object"
+            "explanation": "*ngFor is a structural directive in Angular"
         },
         {
-            "questionText": "How else can Array<number> be written in TypeScript?",
+            "questionText": "What is meant by MVC stands for?",
             "options": [{
-                    "text": "a) @number"
+                    "text": "a) Model Version Control"
                 },
                 {
-                    "text": "b) number[]",
+                    "text": "b) Model View Controller",
                     "correct": true
                 },
                 {
-                    "text": "c) number!"
+                    "text": "c) Model Value Content"
                 },
                 {
-                    "text": "d) number?"
+                    "text": "d) Modern Versatile Concatination"
                 }
             ],
-            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+            "explanation": "MVC Stands for Model View Controller in Angular"
         },
         {
-            "questionText": "In which of these does a class take parameters?",
+            "questionText": "What are the basic building blocks of Angular?",
             "options": [{
-                    "text": "a) constructor",
+                    "text": "a) Components",
                     "correct": true
                 },
                 {
-                    "text": "b) destructor"
+                    "text": "b) Directives"
                 },
                 {
-                    "text": "c) import"
+                    "text": "c) Pipes"
                 },
                 {
-                    "text": "d)subscribe"
+                    "text": "d)Routing"
                 }
             ],
-            "explanation": "a constructor is used by a class to take in parameters"
+            "explanation": "Components are the basic building blocks of an Angular"
         },
         {
             "questionText": "Which is NOT an access modifier?",

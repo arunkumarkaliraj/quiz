@@ -2,29 +2,29 @@
     min-width: 150px;
     max-width: 500px;
     width: 100%;
-  }
+}
   
   .example-full-width {
     width: 100%;
-  }
+}
 
   /* login form style */
   :host {
     display: flex;
     justify-content: center;
     margin: 100px 0px;
-  }
+}
 
   .login_form .mat-form-field {
     width: 100%;
     min-width: 300px;
-  }
+}
 
   mat-card-title,
   mat-card-content {
     display: flex;
     justify-content: center;
-  }
+}
 
   .error {
     padding: 16px;
@@ -35,5 +35,6 @@
 
   .button {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-end; 
   }
+  

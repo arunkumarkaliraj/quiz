@@ -2,10 +2,12 @@
     min-width: 150px;
     max-width: 500px;
     width: 100%;
+    background-color: darkcyan;
   }
   
   .example-full-width {
     width: 100%;
+    background-color: cadetblue; 
   }
 
   /* login form style */
@@ -13,17 +15,20 @@
     display: flex;
     justify-content: center;
     margin: 100px 0px;
+    
   }
 
   .login_form .mat-form-field {
     width: 100%;
     min-width: 300px;
+    
   }
 
   mat-card-title,
   mat-card-content {
     display: flex;
     justify-content: center;
+    background-color: lightseagreen;
     /* width: 100%; */
    
     
@@ -49,7 +54,7 @@
     margin: 0 25px 25px 0;
     display: inline-block;
     vertical-align: top;
-  }
+}
   
   .example-list {
     border: solid 1px #ccc;
