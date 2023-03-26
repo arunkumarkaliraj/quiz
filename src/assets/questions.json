@@ -18,13 +18,31 @@
             "explanation": "Angular is a free frontend development platform for building SPA for mobiles and desktops"
         },
         {
+            "questionText":"What is the use of HTML?",
+            "options":[{
+                "text": "a) User Interfaces"
+            },
+            {
+                "text": "b) Create Dynamic Web Pages"
+            },
+            {
+                "text": "c) Both b and d"
+            },
+            {
+                "text": "d) Create Static Web Pages",
+                "correct": true
+            }
+        ],
+        "explanation": "HTML is mainly used for Creating Static Web Pages"
+        },
+        {
             "questionText": "2. Which of the following is a feauture of Angular?",
             "options": [{
                     "text": "a) Concardination"
                 },
                 {
                     "text": "b) Bug Fixing"
-                },
+                }, 
                 {
                     "text": "c) Query Writing"
                 },

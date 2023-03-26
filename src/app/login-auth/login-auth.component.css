@@ -37,4 +37,6 @@
     display: flex;
     justify-content: flex-end; 
   }
-  
+  .log{
+    background-color:maroon;
+  }
