@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "1. Which of the following is a free FrontEnd Development Platform?",
+            "options": [{
+                    "text": "a)      Angular",
+                    "correct": true
+                },
+                {
+                    "text": "b)      React Js"
+                },
+                {
+                    "text": "c)      MongoDB"
+                },
+                {
+                    "text": "d)      MYSQL"
+                }
+            ],
+            "explanation": "Angular is a free frontend development platform for building SPA for mobiles and desktops"
+        },
+        {
+            "questionText":"What is the use of HTML?",
+            "options":[{
+                "text": "a) User Interfaces"
+            },
+            {
+                "text": "b) Create Dynamic Web Pages"
+            },
+            {
+                "text": "c) Both b and d"
+            },
+            {
+                "text": "d) Create Static Web Pages",
+                "correct": true
+            }
+        ],
+        "explanation": "HTML is mainly used for Creating Static Web Pages"
+        },
+        {
+            "questionText": "2. Which of the following is a feauture of Angular?",
+            "options": [{
+                    "text": "a) Concardination"
+                },
+                {
+                    "text": "b) Bug Fixing"
+                }, 
+                {
+                    "text": "c) Query Writing"
+                },
+                {
+                    "text": "d) HTTPClient",
+                    "correct": true
+                }
+            ],
+            "explanation": "HTTPClient is a feauture of Angular"
+        },
+        {
+            "questionText": "3. Which of the following is a structural directive?",
+            "options": [{
+                    "text": "a) ngIf."
+                },
+                {
+                    "text": "b) *ngFor.",
+                    "correct": true
+                },
+                {
+                    "text": "c) ngStyle."
+                },
+                {
+                    "text": "d) Selector."
+                }
+            ],
+            "explanation": "*ngFor is a structural directive in Angular"
+        },
+        {
+            "questionText": "What is meant by MVC stands for?",
+            "options": [{
+                    "text": "a) Model Version Control"
+                },
+                {
+                    "text": "b) Model View Controller",
+                    "correct": true
+                },
+                {
+                    "text": "c) Model Value Content"
+                },
+                {
+                    "text": "d) Modern Versatile Concatination"
+                }
+            ],
+            "explanation": "MVC Stands for Model View Controller in Angular"
+        },
+        {
+            "questionText": "What are the basic building blocks of Angular?",
+            "options": [{
+                    "text": "a) Components",
+                    "correct": true
+                },
+                {
+                    "text": "b) Directives"
+                },
+                {
+                    "text": "c) Pipes"
+                },
+                {
+                    "text": "d)Routing"
+                }
+            ],
+            "explanation": "Components are the basic building blocks of an Angular"
+        },
+        {
+            "questionText": "Which is NOT an access modifier?",
+            "options": [{
+                    "text": "a) private"
+                },
+                {
+                    "text": "b) protected"
+                },
+                {
+                    "text": "c)public"
+                },
+                {
+                    "text": "d) async",
+                    "correct": true
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Which keyword allows us to share information between files in TypeScript?",
+            "options": [{
+                    "text": "a) import"
+                },
+                {
+                    "text": "b) export",
+                    "correct": true
+                },
+                {
+                    "text": "c) async"
+                },
+                {
+                    "text": "d) constructor"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "Which is an array method to generate a new array based on a condition?",
+            "options": [{
+                    "text": "a) filter",
+                    "correct": true
+                },
+                {
+                    "text": "b) map"
+                },
+                {
+                    "text": "c) async"
+                },
+                {
+                    "text": "d) enum"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "How is a property accessible within a class?",
+            "options": [{
+                    "text": "a) Using this.propertyName",
+                    "correct": true
+                },
+                {
+                    "text": "b) Accessors"
+                },
+                {
+                    "text": "c) Destructuring"
+                },
+                {
+                    "text": "d) Arrow function"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}
